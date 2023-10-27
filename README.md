@@ -1,0 +1,3 @@
+# Snake-Games
+This is a 3 different snake games i programmed in python! Good Luck!
+So i recently created Something called *Snake Game* in python. Its about that ur a snake and u will control the snake with your up down left right keybinds and control the snake like that! You will control the snake to eat apples in the map! and when u eat one apple u grow 1 more body part on your snake! And sometimes later in the snake game there will come 1 Apple and one Rock! If you eat the rock your snake will die! If you eat the apple your snake will grow 2x bigger because its kinda hard! Good Luck out there!
